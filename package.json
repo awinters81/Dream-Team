@@ -1,0 +1,22 @@
+{
+  "name": "Dream Team",
+  "version": "1.0.0",
+  "description": "dream team app" ,
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest --verbose test/*"
+
+//I know that Inquire and Jest will be dependencies in my package.
+
+  },
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
