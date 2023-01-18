@@ -10,7 +10,6 @@
   "scripts": {
     "test": "jest --verbose test/*"
 
-//I know that Inquire and Jest will be dependencies in my package.
 
   },
   "dependencies": {
