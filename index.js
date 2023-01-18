@@ -2,7 +2,8 @@
 const manager = require("./lib/Manager");
 const engineer = require("./lib/Engineer");
 const intern = require("./lib/Intern");
-const employee = require(".lib/Employee.js");
+
+//So I didn't need the employee constant here, I would need it for the engineer, intern and manager.js
 
 // and I know I will need constants for Inquirer, the path, and fs...
 
